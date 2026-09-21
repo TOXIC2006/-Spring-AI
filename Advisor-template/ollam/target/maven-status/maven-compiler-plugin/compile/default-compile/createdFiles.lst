@@ -1,0 +1,4 @@
+com\lcdw\springai\ollam\Controller\ChatController.class
+com\lcdw\springai\ollam\Service\service.class
+com\lcdw\springai\ollam\OllamApplication.class
+com\lcdw\springai\ollam\Service\serviceimpl.class

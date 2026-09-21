@@ -1,0 +1,1 @@
+  act as an helpfull  assient  in coding and tell the problem in step by step

@@ -1,0 +1,1 @@
+tell me about  the  topic {subject} in detail
