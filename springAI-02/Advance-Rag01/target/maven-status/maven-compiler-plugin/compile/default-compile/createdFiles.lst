@@ -1,0 +1,9 @@
+com\lcdw\springai\ollam\OllamApplication.class
+com\lcdw\springai\ollam\Helper\helper.class
+com\lcdw\springai\ollam\Config\confiuration.class
+com\lcdw\springai\ollam\Controller\ChatController.class
+com\lcdw\springai\ollam\Service\datatransformerimpl.class
+com\lcdw\springai\ollam\Service\service.class
+com\lcdw\springai\ollam\advisor\PrintAdvisor.class
+com\lcdw\springai\ollam\Service\Datatranformer.class
+com\lcdw\springai\ollam\Service\serviceimpl.class
