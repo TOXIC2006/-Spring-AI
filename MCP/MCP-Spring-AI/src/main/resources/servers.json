@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "corepack pnpm@9 dlx @modelcontextprotocol/server-filesystem \"D:\\advance rag\\MCP-Spring-AI\""
+      ]
+    }
+  }
+}
